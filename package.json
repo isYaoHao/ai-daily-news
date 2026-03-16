@@ -1,0 +1,32 @@
+{
+  "name": "ai-daily-news",
+  "version": "1.0.0",
+  "description": "Daily AI news digest generator with Chinese and English editions and minimalist share images",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "ai-daily-news": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "digest": "node src/cli.js --lang all",
+    "digest:en": "node src/cli.js --lang en",
+    "digest:zh": "node src/cli.js --lang zh",
+    "cron": "node src/cli.js --lang all --quiet",
+    "test": "node --test src/**/*.test.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "cheerio": "^1.0.0",
+    "node-html-markdown": "^1.3.0",
+    "sharp": "^0.33.2",
+    "dayjs": "^1.11.10",
+    "commander": "^12.0.0",
+    "pino": "^8.18.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT"
+}

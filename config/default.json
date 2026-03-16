@@ -1,0 +1,35 @@
+{
+  "output": {
+    "dir": "./output",
+    "dateFormat": "YYYY-MM-DD"
+  },
+  "digest": {
+    "maxItems": 15,
+    "maxAge": "24h",
+    "languages": ["en", "zh"]
+  },
+  "image": {
+    "width": 1200,
+    "height": 1600,
+    "backgroundColor": "#0a0a0a",
+    "accentColor": "#00d4ff",
+    "textColor": "#e0e0e0",
+    "secondaryColor": "#666666"
+  },
+  "llm": {
+    "provider": "template",
+    "openai": {
+      "model": "gpt-4o-mini",
+      "apiKey": ""
+    },
+    "anthropic": {
+      "model": "claude-sonnet-4-20250514",
+      "apiKey": ""
+    }
+  },
+  "fetch": {
+    "timeout": 15000,
+    "userAgent": "AI-Daily-News/1.0 (RSS Reader)",
+    "concurrency": 3
+  }
+}
