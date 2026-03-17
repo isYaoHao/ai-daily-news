@@ -4,6 +4,7 @@
 import { generateTemplateDigest } from './template.js';
 import { generateOpenAIDigest } from './openai.js';
 import { generateAnthropicDigest } from './anthropic.js';
+import { generateGeminiDigest } from './gemini.js';
 import { getLogger } from '../logger.js';
 
 /**
@@ -32,6 +33,12 @@ export async function generateDigest(articles, lang, config) {
           ...opts,
           apiKey: config.llm.anthropic.apiKey,
           model: config.llm.anthropic.model,
+        });
+
+      case 'gemini':
+        return await generateGeminiDigest(articles, lang, {
+          ...opts,
+          model: config.llm.gemini?.model,
         });
 
       case 'template':

@@ -1,114 +1,114 @@
 {
   "title": "AI Daily Digest",
-  "subtitle": "Your daily roundup of AI news",
+  "subtitle": "Your daily dose of artificial intelligence news and insights.",
   "date": "2026-03-17",
   "lang": "en",
   "items": [
     {
-      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
-      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
+      "title": "NVIDIA's New version of OpenClaw could solve its biggest problem: security",
+      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral O. This is a significant development in the AI space.",
       "source": "TechCrunch - AI",
       "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
       "category": "news"
     },
     {
-      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
-      "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions cal",
+      "title": "Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs",
+      "summary": "Roche's new deployment spans more than 3,500 NVIDIA Blackwell GPUs across its worldwide operations a. This is a significant development in the AI space.",
+      "source": "NVIDIA AI Blog",
+      "link": "https://blogs.nvidia.com/blog/roche-ai-factories-omniverse/",
+      "category": "industry"
+    },
+    {
+      "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+      "summary": "This article covers The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics. It discusses the latest developments and their impact on the AI industry. A brief overview of the topic is provided.",
+      "source": "Hugging Face Blog",
+      "link": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+      "category": "research"
+    },
+    {
+      "title": "Hallucinations in LLMs Are Not a Bug in the Data",
+      "summary": "It’s a feature of the architecture\nThe post Hallucinations in LLMs Are Not a Bug in the Data appeare. This is a significant development in the AI space.",
+      "source": "Towards Data Science",
+      "link": "https://towardsdatascience.com/hallucinations-in-llms-are-not-a-bug-in-the-data/",
+      "category": "community"
+    },
+    {
+      "title": "NVIDIA's New DLSS 5 looks like a real-time generative AI filter for video games",
+      "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's goin. This is a significant development in the AI space.",
       "source": "The Verge - AI",
       "link": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
       "category": "news"
     },
     {
       "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
-      "summary": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as",
+      "summary": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot gener. This is a significant development in the AI space.",
       "source": "The Verge - AI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
       "category": "news"
     },
     {
-      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
-      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
+      "title": "Jensen Huang just put NVIDIA's New Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips. This is a significant development in the AI space.",
       "source": "TechCrunch - AI",
       "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
       "category": "news"
     },
     {
+      "title": "With NVIDIA's New Groq 3, the Era of AI Inference Is (Probably) Here",
+      "summary": "This week, over 30,000 people are descending upon San Jose, Calif., to attend Nvidia GTC, the so-cal. This is a significant development in the AI space.",
+      "source": "IEEE Spectrum - AI",
+      "link": "https://spectrum.ieee.org/nvidia-groq-3",
+      "category": "research"
+    },
+    {
       "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk",
+      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for . This is a significant development in the AI space.",
       "source": "TechCrunch - AI",
       "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
       "category": "news"
     },
     {
-      "title": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
-      "summary": "Deepfake rumors started after social media users claimed Netanyahu is depicted in this video with six fingers on his right hand (seen left). | Image: ",
+      "title": "Benjamin Netanyahu is struggling to prove he's not an AI clone",
+      "summary": "Deepfake rumors started after social media users claimed Netanyahu is depicted in this video with si. This is a significant development in the AI space.",
       "source": "The Verge - AI",
       "link": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
       "category": "news"
     },
     {
-      "title": "Memories AI is building the visual memory layer for wearables and robotics",
-      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
+      "title": "Memories AI is building the visual memory layer for wearables and robotics",
+      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memor. This is a significant development in the AI space.",
       "source": "TechCrunch - AI",
       "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
       "category": "news"
     },
     {
+      "title": "NVIDIA's New DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories",
+      "summary": "Setting up AI factories in simulation — decreasing deployment time from months to days — is acceler. This is a significant development in the AI space.",
+      "source": "NVIDIA AI Blog",
+      "link": "https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/",
+      "category": "industry"
+    },
+    {
       "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
-      "summary": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+      "summary": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered . This is a significant development in the AI space.",
       "source": "TechCrunch - AI",
       "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
       "category": "news"
     },
     {
-      "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
-      "summary": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could event",
+      "title": "NVIDIA's New DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+      "summary": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realist. This is a significant development in the AI space.",
       "source": "TechCrunch - AI",
       "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
       "category": "news"
     },
     {
-      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
-      "summary": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing.",
-      "source": "TechCrunch - AI",
-      "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
-      "category": "news"
-    },
-    {
-      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
-      "summary": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
-      "source": "TechCrunch - AI",
-      "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
-      "category": "news"
-    },
-    {
-      "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
-      "summary": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
-      "source": "TechCrunch - AI",
-      "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
-      "category": "news"
-    },
-    {
-      "title": "The dictionary sues OpenAI",
-      "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
-      "source": "TechCrunch - AI",
-      "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
-      "category": "news"
-    },
-    {
-      "title": "Where OpenAI’s technology could show up in Iran",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been ju",
-      "source": "MIT Technology Review - AI",
-      "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-      "category": "research"
-    },
-    {
-      "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
-      "summary": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted con",
-      "source": "The Verge - AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
-      "category": "news"
+      "title": "Follow the AI Footpaths",
+      "summary": "Shadow AI and the desire paths of modern work\nThe post Follow the AI Footpaths appeared first on Tow. This is a significant development in the AI space.",
+      "source": "Towards Data Science",
+      "link": "https://towardsdatascience.com/follow-the-ai-footpaths/",
+      "category": "community"
     }
   ],
-  "markdown": "# AI Daily Digest — 2026-03-17\n> Your daily roundup of AI news\n\n## News\n\n### Nvidia’s version of OpenClaw could solve its biggest problem: security\nNvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/)\n\n### DLSS 5 looks like a real-time generative AI filter for video games\nNvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic i\n🔗 [The Verge - AI](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics)\n\n### Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM\nThree Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Pos\n🔗 [The Verge - AI](https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk)\n\n### Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere\nNvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/)\n\n### Warren presses Pentagon over decision to grant xAI access to classified networks\nSen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/)\n\n### Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone\nDeepfake rumors started after social media users claimed Netanyahu is depicted in this video with six fingers on his right hand (seen left). | Image: Israel Government Press Office\t  Social media plat\n🔗 [The Verge - AI](https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy)\n\n### Memories AI is building the visual memory layer for wearables and robotics\nMemories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/)\n\n### Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed\nThe three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/)\n\n### Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming\nNvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/)\n\n### How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect\nGTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in th\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/)\n\n### Another deep tech chip startup becomes a unicorn: Frore hits $1.64B\nAt Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/)\n\n### Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions\nThe startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/)\n\n### The dictionary sues OpenAI\nEncyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/)\n\n### Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT\nOn Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses tha\n🔗 [The Verge - AI](https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit)\n\n## Research\n\n### Where OpenAI’s technology could show up in Iran\nThis story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controver\n🔗 [MIT Technology Review - AI](https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/)\n"
+  "markdown": "# AI Daily Digest — 2026-03-17\n> Your daily dose of artificial intelligence news and insights.\n\n## News\n\n### NVIDIA's New version of OpenClaw could solve its biggest problem: security\nNvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral O. This is a significant development in the AI space.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/)\n\n### NVIDIA's New DLSS 5 looks like a real-time generative AI filter for video games\nNvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's goin. This is a significant development in the AI space.\n🔗 [The Verge - AI](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics)\n\n### Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM\nThree Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot gener. This is a significant development in the AI space.\n🔗 [The Verge - AI](https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk)\n\n### Jensen Huang just put NVIDIA's New Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere\nNvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips. This is a significant development in the AI space.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/)\n\n### Warren presses Pentagon over decision to grant xAI access to classified networks\nSen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for . This is a significant development in the AI space.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/)\n\n### Benjamin Netanyahu is struggling to prove he's not an AI clone\nDeepfake rumors started after social media users claimed Netanyahu is depicted in this video with si. This is a significant development in the AI space.\n🔗 [The Verge - AI](https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy)\n\n### Memories AI is building the visual memory layer for wearables and robotics\nMemories.ai is building a large visual memory model that can index and retrieve video-recorded memor. This is a significant development in the AI space.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/)\n\n### Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed\nThe three plaintiffs are seeking to represent anyone who had real images of them as a minor altered . This is a significant development in the AI space.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/)\n\n### NVIDIA's New DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming\nNvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realist. This is a significant development in the AI space.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/)\n\n## Industry\n\n### Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs\nRoche's new deployment spans more than 3,500 NVIDIA Blackwell GPUs across its worldwide operations a. This is a significant development in the AI space.\n🔗 [NVIDIA AI Blog](https://blogs.nvidia.com/blog/roche-ai-factories-omniverse/)\n\n### NVIDIA's New DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories\nSetting up AI factories in simulation — decreasing deployment time from months to days — is acceler. This is a significant development in the AI space.\n🔗 [NVIDIA AI Blog](https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/)\n\n## Research\n\n### The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics\nThis article covers The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics. It discusses the latest developments and their impact on the AI industry. A brief overview of the topic is provided.\n🔗 [Hugging Face Blog](https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics)\n\n### With NVIDIA's New Groq 3, the Era of AI Inference Is (Probably) Here\nThis week, over 30,000 people are descending upon San Jose, Calif., to attend Nvidia GTC, the so-cal. This is a significant development in the AI space.\n🔗 [IEEE Spectrum - AI](https://spectrum.ieee.org/nvidia-groq-3)\n\n## Community\n\n### Hallucinations in LLMs Are Not a Bug in the Data\nIt’s a feature of the architecture\nThe post Hallucinations in LLMs Are Not a Bug in the Data appeare. This is a significant development in the AI space.\n🔗 [Towards Data Science](https://towardsdatascience.com/hallucinations-in-llms-are-not-a-bug-in-the-data/)\n\n### Follow the AI Footpaths\nShadow AI and the desire paths of modern work\nThe post Follow the AI Footpaths appeared first on Tow. This is a significant development in the AI space.\n🔗 [Towards Data Science](https://towardsdatascience.com/follow-the-ai-footpaths/)\n"
 }

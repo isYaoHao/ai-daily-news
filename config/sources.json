@@ -37,12 +37,6 @@
       "category": "news"
     },
     {
-      "name": "Anthropic Blog",
-      "url": "https://www.anthropic.com/rss.xml",
-      "lang": "en",
-      "category": "industry"
-    },
-    {
       "name": "DeepMind Blog",
       "url": "https://deepmind.google/blog/rss.xml",
       "lang": "en",
@@ -61,12 +55,6 @@
       "category": "news"
     },
     {
-      "name": "The Information - AI",
-      "url": "https://www.theinformation.com/feed",
-      "lang": "en",
-      "category": "news"
-    },
-    {
       "name": "Wired - AI",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss",
       "lang": "en",
@@ -77,12 +65,6 @@
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "lang": "en",
       "category": "research"
-    },
-    {
-      "name": "Meta AI Blog",
-      "url": "https://ai.meta.com/blog/rss/",
-      "lang": "en",
-      "category": "industry"
     },
     {
       "name": "NVIDIA AI Blog",
@@ -101,18 +83,6 @@
       "url": "https://towardsdatascience.com/feed",
       "lang": "en",
       "category": "community"
-    },
-    {
-      "name": "AI News (Artificial Intelligence News)",
-      "url": "https://www.artificialintelligence-news.com/feed/",
-      "lang": "en",
-      "category": "news"
-    },
-    {
-      "name": "机器之心",
-      "url": "https://www.jiqizhixin.com/rss",
-      "lang": "zh",
-      "category": "news"
     },
     {
       "name": "量子位",

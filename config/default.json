@@ -25,6 +25,9 @@
     "anthropic": {
       "model": "claude-sonnet-4-20250514",
       "apiKey": ""
+    },
+    "gemini": {
+      "model": "gemini-2.5-flash"
     }
   },
   "fetch": {
