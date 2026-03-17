@@ -3,6 +3,14 @@
 
 ## 新闻
 
+### OpenClaw中国行北京站落幕，3万人围观养虾，本周12城活动继续
+点击查看原文>
+🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/DqE30rlz0ZXXrBJjjIMf?utm_source=rss&utm_medium=article)
+
+### 黄仁勋 GTC 2026 演讲实录：所有SaaS公司都将消失；Token 成本全球最低；2027 营收将到 1 万亿；Feynman 架构已在路上；
+点击查看原文>
+🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/MSc2PuVcBuYd1afpAGC1?utm_source=rss&utm_medium=article)
+
 ### Elastic 9.3 升级！向量搜索快 12 倍
 点击查看原文>
 🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/bDuSyAJix8z1Aq0ff0lZ?utm_source=rss&utm_medium=article)
@@ -54,11 +62,3 @@
 ### 字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报
 点击查看原文>
 🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&utm_medium=article)
-
-### 从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间
-点击查看原文>
-🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&utm_medium=article)
-
-### Webpack发布2026路线图：原生CSS支持、通用目标及向6.0版本的演进路径
-点击查看原文>
-🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/ke9rP6GV4bm5ZNcuprsB?utm_source=rss&utm_medium=article)

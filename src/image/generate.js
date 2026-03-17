@@ -1,10 +1,14 @@
 /**
  * Generate minimalist tech-style share images using Sharp (SVG → PNG).
- * No external image API required.
+ * Uses a background cover image composited with SVG text overlay.
  */
 import sharp from 'sharp';
-import { resolve } from 'node:path';
+import { resolve, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { getLogger } from '../logger.js';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const BG_IMAGE_PATH = resolve(__dirname, '../../assets/bg-cover.png');
 
 const THEMES = {
   en: { badge: 'AI DAILY', tagline: 'Artificial Intelligence News Digest' },
@@ -47,15 +51,6 @@ export async function generateShareImage(digest, imageConfig, outputPath) {
       </g>`;
   }).join('\n');
 
-  // Grid decoration
-  const gridLines = [];
-  for (let x = 0; x < width; x += 60) {
-    gridLines.push(`<line x1="${x}" y1="0" x2="${x}" y2="${height}" stroke="${accentColor}" stroke-width="0.3" opacity="0.05"/>`);
-  }
-  for (let y = 0; y < height; y += 60) {
-    gridLines.push(`<line x1="0" y1="${y}" x2="${width}" y2="${y}" stroke="${accentColor}" stroke-width="0.3" opacity="0.05"/>`);
-  }
-
   const svg = `<?xml version="1.0" encoding="UTF-8"?>
 <svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -65,11 +60,8 @@ export async function generateShareImage(digest, imageConfig, outputPath) {
     </linearGradient>
   </defs>
 
-  <!-- Background -->
-  <rect width="${width}" height="${height}" fill="${backgroundColor}"/>
-
-  <!-- Grid overlay -->
-  ${gridLines.join('\n  ')}
+  <!-- Semi-transparent dark overlay for text readability -->
+  <rect width="${width}" height="${height}" fill="${backgroundColor}" opacity="0.55"/>
 
   <!-- Top glow -->
   <rect width="${width}" height="300" fill="url(#topGlow)"/>
@@ -102,7 +94,15 @@ export async function generateShareImage(digest, imageConfig, outputPath) {
   <text x="${width - 80}" y="${height - 45}" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="${secondaryColor}" text-anchor="end">${escapeXml(date)}</text>
 </svg>`;
 
-  await sharp(Buffer.from(svg)).png().toFile(outputPath);
+  // Composite: bg image → dark overlay + text (SVG)
+  const bgImage = sharp(BG_IMAGE_PATH).resize(width, height, { fit: 'cover' });
+  const svgOverlay = Buffer.from(svg);
+
+  await bgImage
+    .composite([{ input: svgOverlay, top: 0, left: 0 }])
+    .png()
+    .toFile(outputPath);
+
   log.info(`Share image generated: ${outputPath}`);
 }
 

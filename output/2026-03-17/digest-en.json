@@ -5,10 +5,66 @@
   "lang": "en",
   "items": [
     {
-      "title": "Yahoo CEO Jim Lanzone on reviving the web&#8217;s homepage",
-      "summary": "Today, I’m talking with Jim Lanzone, who is the CEO of Yahoo.\nIt’s basically impossible to sum up the Yahoo story, but the short version of it is that",
+      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
+      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+      "category": "news"
+    },
+    {
+      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
+      "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions cal",
       "source": "The Verge - AI",
-      "link": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web",
+      "link": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+      "category": "news"
+    },
+    {
+      "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
+      "summary": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as",
+      "source": "The Verge - AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
+      "category": "news"
+    },
+    {
+      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+      "category": "news"
+    },
+    {
+      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+      "category": "news"
+    },
+    {
+      "title": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
+      "summary": "Deepfake rumors started after social media users claimed Netanyahu is depicted in this video with six fingers on his right hand (seen left). | Image: ",
+      "source": "The Verge - AI",
+      "link": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
+      "category": "news"
+    },
+    {
+      "title": "Memories AI is building the visual memory layer for wearables and robotics",
+      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+      "category": "news"
+    },
+    {
+      "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+      "summary": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+      "category": "news"
+    },
+    {
+      "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+      "summary": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could event",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
       "category": "news"
     },
     {
@@ -19,61 +75,40 @@
       "category": "news"
     },
     {
-      "title": "Nurturing agentic AI beyond the toddler stage",
-      "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to ",
+      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+      "summary": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+      "category": "news"
+    },
+    {
+      "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
+      "summary": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+      "category": "news"
+    },
+    {
+      "title": "The dictionary sues OpenAI",
+      "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+      "category": "news"
+    },
+    {
+      "title": "Where OpenAI’s technology could show up in Iran",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been ju",
       "source": "MIT Technology Review - AI",
-      "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+      "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
       "category": "research"
     },
     {
-      "title": "This is not a fly uploaded to a computer",
-      "summary": "Last week, a few posts about a so-called virtual \"embodied fly\" tore through X, boosted by AI hype accounts and excited commenters who didn't seem to ",
+      "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
+      "summary": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted con",
       "source": "The Verge - AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
-      "category": "news"
-    },
-    {
-      "title": "The Download: glass chips and “AI-free” logos",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI ch",
-      "source": "MIT Technology Review - AI",
-      "link": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
-      "category": "research"
-    },
-    {
-      "title": "OpenAI&#8217;s adult mode will reportedly be smutty, not pornographic",
-      "summary": "So when exactly is smut considered porn? | Cath Virginia / The Verge | Photos from Getty Images\t\n\nOpenAI's delayed \"adult mode\" for ChatGPT is expecte",
-      "source": "The Verge - AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica",
-      "category": "news"
-    },
-    {
-      "title": "Securing digital assets against future threats",
-      "summary": "",
-      "source": "MIT Technology Review - AI",
-      "link": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
-      "category": "research"
-    },
-    {
-      "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
-      "summary": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohor",
-      "source": "TechCrunch - AI",
-      "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
-      "category": "news"
-    },
-    {
-      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
-      "summary": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
-      "source": "TechCrunch - AI",
-      "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
-      "category": "news"
-    },
-    {
-      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving f",
-      "source": "TechCrunch - AI",
-      "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
       "category": "news"
     }
   ],
-  "markdown": "# AI Daily Digest — 2026-03-17\n> Your daily roundup of AI news\n\n## News\n\n### Yahoo CEO Jim Lanzone on reviving the web&#8217;s homepage\nToday, I’m talking with Jim Lanzone, who is the CEO of Yahoo. It’s basically impossible to sum up the Yahoo story, but the short version of it is that a long time ago Yahoo paid Google to run the sear\n🔗 [The Verge - AI](https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web)\n\n### How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect\nGTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in th\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/)\n\n### This is not a fly uploaded to a computer\nLast week, a few posts about a so-called virtual \"embodied fly\" tore through X, boosted by AI hype accounts and excited commenters who didn't seem to understand what it was they were excited about. Th\n🔗 [The Verge - AI](https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload)\n\n### OpenAI&#8217;s adult mode will reportedly be smutty, not pornographic\nSo when exactly is smut considered porn? | Cath Virginia / The Verge | Photos from Getty Images\t  OpenAI's delayed \"adult mode\" for ChatGPT is expected to support saucy text conversations at launch, b\n🔗 [The Verge - AI](https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica)\n\n### Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’\nGoogle and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/)\n\n### ByteDance reportedly pauses global launch of its Seedance 2.0 video generator\nThe company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/)\n\n### Lawyer behind AI psychosis cases warns of mass casualty risks\nAI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/)\n\n## Research\n\n### Nurturing agentic AI beyond the toddler stage\nParents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark\n🔗 [MIT Technology Review - AI](https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/)\n\n### The Download: glass chips and “AI-free” logos\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass  Human-made glass is t\n🔗 [MIT Technology Review - AI](https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/)\n\n### Securing digital assets against future threats\n🔗 [MIT Technology Review - AI](https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/)\n"
+  "markdown": "# AI Daily Digest — 2026-03-17\n> Your daily roundup of AI news\n\n## News\n\n### Nvidia’s version of OpenClaw could solve its biggest problem: security\nNvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/)\n\n### DLSS 5 looks like a real-time generative AI filter for video games\nNvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic i\n🔗 [The Verge - AI](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics)\n\n### Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM\nThree Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Pos\n🔗 [The Verge - AI](https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk)\n\n### Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere\nNvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/)\n\n### Warren presses Pentagon over decision to grant xAI access to classified networks\nSen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/)\n\n### Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone\nDeepfake rumors started after social media users claimed Netanyahu is depicted in this video with six fingers on his right hand (seen left). | Image: Israel Government Press Office\t  Social media plat\n🔗 [The Verge - AI](https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy)\n\n### Memories AI is building the visual memory layer for wearables and robotics\nMemories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/)\n\n### Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed\nThe three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/)\n\n### Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming\nNvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/)\n\n### How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect\nGTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in th\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/)\n\n### Another deep tech chip startup becomes a unicorn: Frore hits $1.64B\nAt Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/)\n\n### Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions\nThe startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/)\n\n### The dictionary sues OpenAI\nEncyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/)\n\n### Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT\nOn Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses tha\n🔗 [The Verge - AI](https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit)\n\n## Research\n\n### Where OpenAI’s technology could show up in Iran\nThis story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controver\n🔗 [MIT Technology Review - AI](https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/)\n"
 }
