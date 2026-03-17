@@ -14,4 +14,13 @@ PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
 cd "$PROJECT_DIR"
 
 # Run the pipeline in quiet mode
-exec node src/cli.js --lang all --quiet
+node src/cli.js --lang all --quiet
+
+# Auto-commit and push output
+TODAY="$(date +%Y-%m-%d)"
+git add output/
+git add .gitignore
+git diff --cached --quiet || {
+  git commit -m "chore: add daily digest ${TODAY}"
+  git push origin main
+}

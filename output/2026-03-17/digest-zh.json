@@ -1,0 +1,114 @@
+{
+  "title": "AI 日报",
+  "subtitle": "每日 AI 新闻精选",
+  "date": "2026-03-17",
+  "lang": "zh",
+  "items": [
+    {
+      "title": "Elastic 9.3 升级！向量搜索快 12 倍",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/bDuSyAJix8z1Aq0ff0lZ?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "曝Meta狂砍20%岗位！超1.6万人将失业，传闻“要用AI智能体取代整个工程团队”？",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/HS2jaSrSCcIz0ev22ZqX?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "从 ChatBI 到多 Agent 分析中台：Snowflake 与亚马逊云科技的实战架构",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/gKOHwNErbptx92BQWZmQ?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "AI x 大前端性能稳定性：快手亿级 DAU 下的智能诊断实践",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/idzEW0gbCfaAusraiXbu?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "AI 2.0 时代的大模型推理：从模型到硬件的协同优化",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "AI 领导力：像管理团队一样管理 AI",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/DCc9GWuL9MVlgvDpRJWg?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "Snowflake China 与国内云对象存储的多云集成实战指南：一套架构打通多云对象存储",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/k8BNY1zRhBSFCGmo4yOe?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "“为了让工程师用 AI，公司会裁掉一半人！”硅谷顶级大佬直言，AI 一天 3 小时搞定工作，还搞 996 的公司必垮",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/JSj5hNXIOBmDXD1jpZDa?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "OpenClaw 之父惊叹中国速度！大厂集体杀入新战场：用AI 批量制造“一人公司”",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/9qY0o9CYOdkQAz6k6YCG?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "地瓜机器人完成1.2亿美元B1轮融资，多家大厂都投了",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/VAJUJjHTi7VyFPrBV1Q8?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "阿里中国电商事业群、飞猪CTO 陈烨博士已确认出席QCon北京站，分享消费级智能体的演进",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/1eaUWzjcSYXh0C6D4xK0?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "Webpack发布2026路线图：原生CSS支持、通用目标及向6.0版本的演进路径",
+      "summary": "点击查看原文>",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/ke9rP6GV4bm5ZNcuprsB?utm_source=rss&utm_medium=article",
+      "category": "news"
+    }
+  ],
+  "markdown": "# AI 日报 — 2026-03-17\n> 每日 AI 新闻精选\n\n## 新闻\n\n### Elastic 9.3 升级！向量搜索快 12 倍\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/bDuSyAJix8z1Aq0ff0lZ?utm_source=rss&utm_medium=article)\n\n### 曝Meta狂砍20%岗位！超1.6万人将失业，传闻“要用AI智能体取代整个工程团队”？\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/HS2jaSrSCcIz0ev22ZqX?utm_source=rss&utm_medium=article)\n\n### 从 ChatBI 到多 Agent 分析中台：Snowflake 与亚马逊云科技的实战架构\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/gKOHwNErbptx92BQWZmQ?utm_source=rss&utm_medium=article)\n\n### AI x 大前端性能稳定性：快手亿级 DAU 下的智能诊断实践\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/idzEW0gbCfaAusraiXbu?utm_source=rss&utm_medium=article)\n\n### AI 2.0 时代的大模型推理：从模型到硬件的协同优化\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&utm_medium=article)\n\n### AI 领导力：像管理团队一样管理 AI\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/DCc9GWuL9MVlgvDpRJWg?utm_source=rss&utm_medium=article)\n\n### Snowflake China 与国内云对象存储的多云集成实战指南：一套架构打通多云对象存储\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/k8BNY1zRhBSFCGmo4yOe?utm_source=rss&utm_medium=article)\n\n### “为了让工程师用 AI，公司会裁掉一半人！”硅谷顶级大佬直言，AI 一天 3 小时搞定工作，还搞 996 的公司必垮\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/JSj5hNXIOBmDXD1jpZDa?utm_source=rss&utm_medium=article)\n\n### OpenClaw 之父惊叹中国速度！大厂集体杀入新战场：用AI 批量制造“一人公司”\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/9qY0o9CYOdkQAz6k6YCG?utm_source=rss&utm_medium=article)\n\n### 地瓜机器人完成1.2亿美元B1轮融资，多家大厂都投了\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/VAJUJjHTi7VyFPrBV1Q8?utm_source=rss&utm_medium=article)\n\n### Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&utm_medium=article)\n\n### 阿里中国电商事业群、飞猪CTO 陈烨博士已确认出席QCon北京站，分享消费级智能体的演进\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/1eaUWzjcSYXh0C6D4xK0?utm_source=rss&utm_medium=article)\n\n### 字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&utm_medium=article)\n\n### 从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&utm_medium=article)\n\n### Webpack发布2026路线图：原生CSS支持、通用目标及向6.0版本的演进路径\n点击查看原文>\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/ke9rP6GV4bm5ZNcuprsB?utm_source=rss&utm_medium=article)\n"
+}
