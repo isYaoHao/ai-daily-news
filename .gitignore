@@ -3,3 +3,4 @@ config/local.json
 .env
 *.log
 .DS_Store
+.tmp/

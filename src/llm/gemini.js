@@ -2,8 +2,16 @@
  * Gemini CLI-based digest generator.
  * Calls `gemini` CLI in one-shot mode — no API key needed.
  */
-import { spawn } from 'node:child_process';
+import { execFile } from 'node:child_process';
+import { promisify } from 'node:util';
+import { writeFileSync, readFileSync, unlinkSync, mkdirSync } from 'node:fs';
+import { resolve, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { getLogger } from '../logger.js';
+
+const execFileAsync = promisify(execFile);
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const TMP_DIR = resolve(__dirname, '../../.tmp');
 
 const SYSTEM_PROMPTS = {
   en: `AI news editor. Input: today's articles (JSON, fields: t=title, s=summary snippet, src=source, l=link, c=category). Output: curated digest as STRICT JSON (no fences).
@@ -39,40 +47,23 @@ export async function generateGeminiDigest(articles, lang, opts = {}) {
   const userPrompt = `Date: ${date}\n\nArticles:\n${JSON.stringify(input, null, 2)}`;
   const fullPrompt = `${systemPrompt}\n\n---\n\n${userPrompt}`;
 
-  log.info(`Calling Gemini CLI (model: ${model}) for ${lang} digest...`);
+  // Write prompt to temp file, pipe to gemini via shell
+  mkdirSync(TMP_DIR, { recursive: true });
+  const inputFile = resolve(TMP_DIR, `prompt-${lang}.txt`);
+
+  writeFileSync(inputFile, fullPrompt, 'utf-8');
+
+  log.info(`Calling Gemini CLI (model: ${model}) for ${lang} digest via file IO...`);
 
   try {
-    // Use stdin to pass the prompt (avoids shell arg length limits)
-    const stdout = await new Promise((resolve, reject) => {
-      const child = spawn('gemini', [
-        '--model', model,
-        '--output-format', 'json',
-      ], {
-        env: { ...process.env },
-        stdio: ['pipe', 'pipe', 'pipe'],
-      });
-
-      let out = '';
-      let err = '';
-      child.stdout.on('data', (d) => { out += d; });
-      child.stderr.on('data', (d) => { err += d; });
-
-      child.on('close', (code) => {
-        if (code !== 0) return reject(new Error(`gemini exited ${code}: ${err}`));
-        resolve(out);
-      });
-
-      child.on('error', reject);
-
-      // Write prompt to stdin and close
-      child.stdin.write(fullPrompt);
-      child.stdin.end();
-
-      // Timeout
-      setTimeout(() => {
-        child.kill('SIGTERM');
-        reject(new Error('Gemini CLI timed out after 180s'));
-      }, 180_000);
+    // Use shell to pipe file content to gemini stdin
+    const { stdout } = await execFileAsync('sh', [
+      '-c',
+      `cat "${inputFile}" | gemini --model ${model} --output-format json`,
+    ], {
+      timeout: 180_000,
+      maxBuffer: 2 * 1024 * 1024,
+      env: { ...process.env },
     });
 
     // Gemini CLI with --output-format json wraps in { response: "...", ... }
@@ -137,5 +128,7 @@ export async function generateGeminiDigest(articles, lang, opts = {}) {
   } catch (err) {
     log.error(`Gemini CLI failed: ${err.message}`);
     throw err;
+  } finally {
+    try { unlinkSync(inputFile); } catch {}
   }
 }
