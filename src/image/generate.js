@@ -29,25 +29,36 @@ export async function generateShareImage(digest, imageConfig, outputPath) {
     backgroundColor = '#0a0a0a',
     accentColor = '#00d4ff',
     textColor = '#e0e0e0',
-    secondaryColor = '#666666',
+    secondaryColor = '#888888',
   } = imageConfig;
 
   const theme = THEMES[digest.lang] || THEMES.en;
   const items = digest.items?.slice(0, 10) || [];
   const date = digest.date || new Date().toISOString().slice(0, 10);
 
-  // Build SVG
+  // Build SVG — each item: title + 2 lines of summary + source
+  const maxSummaryChars = 55; // chars per summary line
   const itemsSVG = items.map((item, i) => {
     const y = 420 + i * 110;
     const title = escapeXml(truncate(item.title, 45));
-    const summary = escapeXml(truncate(item.summary, 60));
     const source = escapeXml(item.source || '');
+
+    // Split summary into 2 lines (skip junk like "点击查看原文")
+    const rawSummary = item.summary || '';
+    const isJunk = /^[\s]*[点击查看原文>›»→…]*[\s]*$/.test(rawSummary) || rawSummary.length < 10;
+    const fullSummary = isJunk ? '' : rawSummary;
+    const line1 = fullSummary ? escapeXml(truncateAtWord(fullSummary, maxSummaryChars)) : '';
+    const cutLen = truncateAtWord(fullSummary, maxSummaryChars).length;
+    const remaining = fullSummary.length > cutLen ? fullSummary.slice(cutLen).trimStart() : '';
+    const line2 = remaining ? escapeXml(truncateAtWord(remaining, maxSummaryChars)) : '';
+
     return `
       <g transform="translate(80, ${y})">
-        <rect x="0" y="0" width="4" height="80" fill="${accentColor}" opacity="0.6" rx="2"/>
-        <text x="24" y="24" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="${textColor}">${title}</text>
-        <text x="24" y="52" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="${secondaryColor}">${summary}</text>
-        <text x="24" y="74" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="${accentColor}" opacity="0.7">${source}</text>
+        <rect x="0" y="0" width="4" height="90" fill="${accentColor}" opacity="0.6" rx="2"/>
+        <text x="24" y="22" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="${textColor}">${title}</text>
+        <text x="24" y="48" font-family="system-ui, -apple-system, sans-serif" font-size="15" fill="${secondaryColor}">${line1}</text>
+        ${line2 ? `<text x="24" y="68" font-family="system-ui, -apple-system, sans-serif" font-size="15" fill="${secondaryColor}">${line2}</text>` : ''}
+        <text x="24" y="90" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="${accentColor}" opacity="0.7">${source}</text>
       </g>`;
   }).join('\n');
 
@@ -118,4 +129,15 @@ function escapeXml(str) {
 function truncate(str, max) {
   if (!str) return '';
   return str.length > max ? str.slice(0, max - 1) + '…' : str;
+}
+
+function truncateAtWord(str, max) {
+  if (!str) return '';
+  if (str.length <= max) return str;
+  // For CJK text, cut at char boundary; for Latin, try word boundary
+  const cut = str.slice(0, max);
+  const lastSpace = cut.lastIndexOf(' ');
+  // If mostly CJK (no spaces found in first half), just cut at max
+  if (lastSpace <= max * 0.3) return cut.trimEnd() + '…';
+  return cut.slice(0, lastSpace).trimEnd() + '…';
 }

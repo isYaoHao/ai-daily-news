@@ -3,6 +3,18 @@
 
 ## 新闻
 
+### 打造自进化的编码伙伴：Qoder 记忆系统落地实践｜QCon北京
+点击查看原文>
+🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/t1WJGcChOvyEUYhZB2C6?utm_source=rss&utm_medium=article)
+
+### 两天推翻Karpathy 20年工作习惯！百行代码开源项目“封神”，AI替你通宵肝研究、战绩可查
+点击查看原文>
+🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&utm_medium=article)
+
+### 在 AKS 上规模化运行 Ray
+点击查看原文>
+🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/3vTFH7QGA4YHhENRqVVb?utm_source=rss&utm_medium=article)
+
 ### OpenClaw中国行北京站落幕，3万人围观养虾，本周12城活动继续
 点击查看原文>
 🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/DqE30rlz0ZXXrBJjjIMf?utm_source=rss&utm_medium=article)
@@ -50,15 +62,3 @@
 ### 地瓜机器人完成1.2亿美元B1轮融资，多家大厂都投了
 点击查看原文>
 🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/VAJUJjHTi7VyFPrBV1Q8?utm_source=rss&utm_medium=article)
-
-### Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic
-点击查看原文>
-🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&utm_medium=article)
-
-### 阿里中国电商事业群、飞猪CTO 陈烨博士已确认出席QCon北京站，分享消费级智能体的演进
-点击查看原文>
-🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/1eaUWzjcSYXh0C6D4xK0?utm_source=rss&utm_medium=article)
-
-### 字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报
-点击查看原文>
-🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&utm_medium=article)
