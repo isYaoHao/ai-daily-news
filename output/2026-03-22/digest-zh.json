@@ -1,0 +1,65 @@
+{
+  "title": "AI 日报",
+  "subtitle": "今日AI热点速览：模型归属争议、机器人产业动向与技术突破",
+  "date": "2026-03-22",
+  "lang": "zh",
+  "items": [
+    {
+      "title": "宇树科技招股书深度解析：揭秘其八大关键点及商业模式",
+      "summary": "此文深度剖析了知名机器人公司宇树科技的招股说明书，详细披露了支撑其运营的八个关键点。通过分析这些核心信息，文章揭示了宇树科技当前的商业模式、盈利能力以及未来发展策略，对于理解其在机器人赛道的市场定位具有重要参考价值。",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&utm_medium=article",
+      "category": "industry"
+    },
+    {
+      "title": "Cursor新模型被证实为Kimi K2.5：联创承认并致歉未明确说明",
+      "summary": "Cursor AI公司最新发布的模型引发争议，被指实际上是月之暗面（Moonshot AI）的Kimi K2.5模型。Cursor联合创始人对此做出回应，承认了该事实并表示将在未来对模型来源进行更清晰的标注，引发了业界对AI模型透明度与归属权的广泛讨论。",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "火山Mem0架构深度解析：AI Agent记忆中间件设计与实践",
+      "summary": "在QCon北京大会上，专家们对火山Mem0架构进行了详细的技术拆解，深入探讨了其作为AI Agent记忆中间件的设计理念与实现路径。该架构旨在解决AI Agent的长期记忆管理和知识整合难题，为构建更智能、更具上下文感知能力的AI Agent提供了重要的技术支撑和实践经验。",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/VGTtEPwPCd101Iwm9wQi?utm_source=rss&utm_medium=article",
+      "category": "research"
+    },
+    {
+      "title": "北大团队突破生物分层识别难题：彭宇新团队利用细粒度树先验提升泛化能力",
+      "summary": "北京大学彭宇新团队在生物类别分层识别研究中取得了显著突破，他们创新性地引入了细粒度树先验知识，极大地提升了生成式模型的泛化性能。这项研究能够精准识别生物的“界门纲目科属种”等多个层级分类，为实现更深层次的通用视觉理解及生物信息学应用奠定了坚实基础。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/390945.html",
+      "category": "research"
+    },
+    {
+      "title": "英伟达GTC幕后AI巨头曝光：光轮智能定义Physical AI基础设施",
+      "summary": "在英伟达GTC大会上，黄仁勋展示的机器人演示背后，一家名为光轮智能的隐形AI巨头浮出水面。该公司致力于构建Physical AI的基础设施，为机器人提供核心技术支持，其在具身智能领域的基础性工作正逐渐定义未来AI硬件与软件的融合范式。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/390924.html",
+      "category": "industry"
+    },
+    {
+      "title": "应对AI高成本挑战：AKS通过DRA与vGPU提供新解决方案",
+      "summary": "面对AI应用日益增长的计算成本压力，Azure Kubernetes Service（AKS）提出了一套创新的解决方案，结合了动态资源分配（DRA）和虚拟GPU（vGPU）技术。该方案旨在通过优化资源利用率和灵活调度，有效降低AI模型的训练与推理成本，为企业级AI部署提供更经济高效的路径选择。",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/QhXW1UCVYwHtx7W9EdDp?utm_source=rss&utm_medium=article",
+      "category": "industry"
+    },
+    {
+      "title": "北航团队发布OpenClaw风险防御工具：为大模型安全提供九大缓解措施",
+      "summary": "针对大型语言模型（LLM）日益凸显的安全风险，北京航空航天大学团队自主研发并开源了OpenClaw风险防御工具。该工具详细梳理并提供了九大高危风险缓解措施，旨在帮助开发者和研究者系统性地识别、评估并抵御LLM可能面临的各类安全威胁，全面提升模型的鲁棒性和安全性。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/390918.html",
+      "category": "research"
+    },
+    {
+      "title": "越疆科技刘培超专访：从春晚幕后到百亿市值，具身智能营收已达千万",
+      "summary": "越疆科技（Dobot）创始人刘培超在一次深度专访中透露，公司在具身智能领域的年度营收已突破千万元大关。他强调，越疆科技已从早期的市场推广阶段迈入追求实际商业价值的新阶段，这表明其在机器人和具身智能市场的技术沉淀正逐步转化为显著的经济效益。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/390531.html",
+      "category": "industry"
+    }
+  ],
+  "markdown": "# AI 日报 — 2026-03-22\n> 今日AI热点速览：模型归属争议、机器人产业动向与技术突破\n\n## 行业\n\n### 宇树科技招股书深度解析：揭秘其八大关键点及商业模式\n此文深度剖析了知名机器人公司宇树科技的招股说明书，详细披露了支撑其运营的八个关键点。通过分析这些核心信息，文章揭示了宇树科技当前的商业模式、盈利能力以及未来发展策略，对于理解其在机器人赛道的市场定位具有重要参考价值。\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&utm_medium=article)\n\n### 英伟达GTC幕后AI巨头曝光：光轮智能定义Physical AI基础设施\n在英伟达GTC大会上，黄仁勋展示的机器人演示背后，一家名为光轮智能的隐形AI巨头浮出水面。该公司致力于构建Physical AI的基础设施，为机器人提供核心技术支持，其在具身智能领域的基础性工作正逐渐定义未来AI硬件与软件的融合范式。\n🔗 [量子位](https://www.qbitai.com/2026/03/390924.html)\n\n### 应对AI高成本挑战：AKS通过DRA与vGPU提供新解决方案\n面对AI应用日益增长的计算成本压力，Azure Kubernetes Service（AKS）提出了一套创新的解决方案，结合了动态资源分配（DRA）和虚拟GPU（vGPU）技术。该方案旨在通过优化资源利用率和灵活调度，有效降低AI模型的训练与推理成本，为企业级AI部署提供更经济高效的路径选择。\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/QhXW1UCVYwHtx7W9EdDp?utm_source=rss&utm_medium=article)\n\n### 越疆科技刘培超专访：从春晚幕后到百亿市值，具身智能营收已达千万\n越疆科技（Dobot）创始人刘培超在一次深度专访中透露，公司在具身智能领域的年度营收已突破千万元大关。他强调，越疆科技已从早期的市场推广阶段迈入追求实际商业价值的新阶段，这表明其在机器人和具身智能市场的技术沉淀正逐步转化为显著的经济效益。\n🔗 [量子位](https://www.qbitai.com/2026/03/390531.html)\n\n## 新闻\n\n### Cursor新模型被证实为Kimi K2.5：联创承认并致歉未明确说明\nCursor AI公司最新发布的模型引发争议，被指实际上是月之暗面（Moonshot AI）的Kimi K2.5模型。Cursor联合创始人对此做出回应，承认了该事实并表示将在未来对模型来源进行更清晰的标注，引发了业界对AI模型透明度与归属权的广泛讨论。\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4?utm_source=rss&utm_medium=article)\n\n## 研究\n\n### 火山Mem0架构深度解析：AI Agent记忆中间件设计与实践\n在QCon北京大会上，专家们对火山Mem0架构进行了详细的技术拆解，深入探讨了其作为AI Agent记忆中间件的设计理念与实现路径。该架构旨在解决AI Agent的长期记忆管理和知识整合难题，为构建更智能、更具上下文感知能力的AI Agent提供了重要的技术支撑和实践经验。\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/VGTtEPwPCd101Iwm9wQi?utm_source=rss&utm_medium=article)\n\n### 北大团队突破生物分层识别难题：彭宇新团队利用细粒度树先验提升泛化能力\n北京大学彭宇新团队在生物类别分层识别研究中取得了显著突破，他们创新性地引入了细粒度树先验知识，极大地提升了生成式模型的泛化性能。这项研究能够精准识别生物的“界门纲目科属种”等多个层级分类，为实现更深层次的通用视觉理解及生物信息学应用奠定了坚实基础。\n🔗 [量子位](https://www.qbitai.com/2026/03/390945.html)\n\n### 北航团队发布OpenClaw风险防御工具：为大模型安全提供九大缓解措施\n针对大型语言模型（LLM）日益凸显的安全风险，北京航空航天大学团队自主研发并开源了OpenClaw风险防御工具。该工具详细梳理并提供了九大高危风险缓解措施，旨在帮助开发者和研究者系统性地识别、评估并抵御LLM可能面临的各类安全威胁，全面提升模型的鲁棒性和安全性。\n🔗 [量子位](https://www.qbitai.com/2026/03/390918.html)\n"
+}
