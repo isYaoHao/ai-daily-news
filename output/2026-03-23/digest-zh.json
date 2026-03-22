@@ -1,0 +1,51 @@
+{
+  "title": "AI 日报",
+  "subtitle": "前沿AI技术与产业发展深度洞察",
+  "date": "2026-03-23",
+  "lang": "zh",
+  "items": [
+    {
+      "title": "MCP Gateway：QCon北京将探讨构建下一代AI Agent的核心网关技术",
+      "summary": "MCP Gateway被定位为构建下一代AI Agent的关键“中枢网关”，旨在提供强大的连接和管理能力。这一创新技术将在QCon北京大会上进行深入分享，届时有望揭示其在AI应用生态中的重要作用和发展潜力。",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/wwu9ccjyS00J9YMgKHI7?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "Java生态近期更新速览：涵盖Apache Solr 10、LangChain4j等多个项目进展",
+      "summary": "近期Java技术社区迎来多项重要更新，包括Apache Solr 10的发布、LangChain4j在AI应用开发中的进展，以及Grails、JobRunr、Gradle等流行框架和工具的新动态。此外，Devnexus大会和Commonhaus项目的相关资讯也备受关注，共同展现了Java生态的持续活力与创新。",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "浙江大学团队提出新方法，解决多模态模型“盲目自信”问题，提升决策可靠性",
+      "summary": "浙江大学研究团队在CVPR’26上提出一项创新解决方案，旨在破解多模态模型在面对不确定信息时表现出的“盲目自信”现象。他们通过在模型推理前校准其置信度，并在此基础上合理分配计算资源，从而显著提高了模型判断的准确性和可靠性，避免了在图像模糊等极端情况下的错误“确信”。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/391014.html",
+      "category": "news"
+    },
+    {
+      "title": "阶跃星辰StepClaw“龙虾”率先适配微信生态，深度激活个人聊天AI应用",
+      "summary": "阶跃星辰推出的StepClaw“龙虾”产品，现已率先完成对微信生态的全面适配，实现了“即插即养即用”的便捷体验。此举有望深度激活个人聊天场景中的AI应用潜力，使用户能够在日常沟通中更轻松地享受到AI带来的智能化服务和互动。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/391010.html",
+      "category": "news"
+    },
+    {
+      "title": "DeepSeek核心成员郭达雅受大厂追捧，其“综艺巨佬”背景引关注",
+      "summary": "DeepSeek的核心成员郭达雅近期成为多家大型科技公司争抢的焦点人物，其独特的“综艺巨佬”背景也引发了广泛关注。行业正密切关注这位才华横溢的AI专家最终将选择加盟哪家企业，预示着顶尖AI人才在当前科技竞争中的重要价值。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/390990.html",
+      "category": "news"
+    },
+    {
+      "title": "探秘上海“开发者之城”底气：WAIC大会议程展现科技雄心",
+      "summary": "上海正积极构建“开发者之城”的品牌形象，其底气与雄心在即将于3月27日开幕的世界人工智能大会（WAIC）议程中得以充分展现。通过提前发布的WAIC“直通卡”信息，外界可以一窥上海在人工智能及科技创新领域的深度布局与强大号召力，理解其吸引全球开发者的决心。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/390977.html",
+      "category": "news"
+    }
+  ],
+  "markdown": "# AI 日报 — 2026-03-23\n> 前沿AI技术与产业发展深度洞察\n\n## 新闻\n\n### MCP Gateway：QCon北京将探讨构建下一代AI Agent的核心网关技术\nMCP Gateway被定位为构建下一代AI Agent的关键“中枢网关”，旨在提供强大的连接和管理能力。这一创新技术将在QCon北京大会上进行深入分享，届时有望揭示其在AI应用生态中的重要作用和发展潜力。\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/wwu9ccjyS00J9YMgKHI7?utm_source=rss&utm_medium=article)\n\n### Java生态近期更新速览：涵盖Apache Solr 10、LangChain4j等多个项目进展\n近期Java技术社区迎来多项重要更新，包括Apache Solr 10的发布、LangChain4j在AI应用开发中的进展，以及Grails、JobRunr、Gradle等流行框架和工具的新动态。此外，Devnexus大会和Commonhaus项目的相关资讯也备受关注，共同展现了Java生态的持续活力与创新。\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article)\n\n### 浙江大学团队提出新方法，解决多模态模型“盲目自信”问题，提升决策可靠性\n浙江大学研究团队在CVPR’26上提出一项创新解决方案，旨在破解多模态模型在面对不确定信息时表现出的“盲目自信”现象。他们通过在模型推理前校准其置信度，并在此基础上合理分配计算资源，从而显著提高了模型判断的准确性和可靠性，避免了在图像模糊等极端情况下的错误“确信”。\n🔗 [量子位](https://www.qbitai.com/2026/03/391014.html)\n\n### 阶跃星辰StepClaw“龙虾”率先适配微信生态，深度激活个人聊天AI应用\n阶跃星辰推出的StepClaw“龙虾”产品，现已率先完成对微信生态的全面适配，实现了“即插即养即用”的便捷体验。此举有望深度激活个人聊天场景中的AI应用潜力，使用户能够在日常沟通中更轻松地享受到AI带来的智能化服务和互动。\n🔗 [量子位](https://www.qbitai.com/2026/03/391010.html)\n\n### DeepSeek核心成员郭达雅受大厂追捧，其“综艺巨佬”背景引关注\nDeepSeek的核心成员郭达雅近期成为多家大型科技公司争抢的焦点人物，其独特的“综艺巨佬”背景也引发了广泛关注。行业正密切关注这位才华横溢的AI专家最终将选择加盟哪家企业，预示着顶尖AI人才在当前科技竞争中的重要价值。\n🔗 [量子位](https://www.qbitai.com/2026/03/390990.html)\n\n### 探秘上海“开发者之城”底气：WAIC大会议程展现科技雄心\n上海正积极构建“开发者之城”的品牌形象，其底气与雄心在即将于3月27日开幕的世界人工智能大会（WAIC）议程中得以充分展现。通过提前发布的WAIC“直通卡”信息，外界可以一窥上海在人工智能及科技创新领域的深度布局与强大号召力，理解其吸引全球开发者的决心。\n🔗 [量子位](https://www.qbitai.com/2026/03/390977.html)\n"
+}
