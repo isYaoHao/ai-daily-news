@@ -1,0 +1,114 @@
+{
+  "title": "AI 日报",
+  "subtitle": "今日人工智能领域聚焦大模型应用、安全挑战与具身智能新进展。",
+  "date": "2026-03-24",
+  "lang": "zh",
+  "items": [
+    {
+      "title": "极客部落发布“OPC 创业者招募计划”，赋能AI时代“一人独角兽”",
+      "summary": "极客部落发布了“OPC 创业者招募计划”，旨在赋能AI时代的个体创业者成为“一人独角兽”。该计划为有志于在人工智能领域进行创新和发展的个人提供了创业支持和资源，以推动AI生态的繁荣。",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/71MQtQpYKbCLSbXo6v8u?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "Bosch首席AI科学家阎栋博士将出席QCon北京站，探讨AI大模型与软件世界未来",
+      "summary": "Bosch集团首席AI科学家阎栋博士将出席QCon北京站，届时他将深入探讨AI大模型对软件世界的潜在影响。此次讨论预计将围绕人工智能技术如何重塑软件开发范式，以及软件行业的未来走向展开。",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/g29j1RVFBqGg1t4BQExV?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "AICon 2026 上海站启动，聚焦OpenClaw技术与AI应用真实现状",
+      "summary": "AICon 2026上海站已正式启动，本届大会将聚焦OpenClaw等前沿AI技术和实际应用。会议旨在提供一个深入交流的平台，探讨人工智能领域的最新进展与挑战，推动行业创新与发展。",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/C2WQHsZF6ruKr61USuSa?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "DoorDash构建大模型对话模拟与评估闭环，提升客服机器人测试效率",
+      "summary": "DoorDash成功构建了一套大模型对话模拟与评估闭环系统，显著提升了客服机器人的规模化测试能力。此举使得DoorDash能够高效验证和优化其AI驱动的客户服务解决方案，确保服务质量并加速产品迭代。",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/ZaJmZWklKB37egQrQzBk?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "Netflix发现现代CPU扩展容器化应用存在内核级瓶颈",
+      "summary": "Netflix工程师在现代CPU上扩展容器化应用时，发现了内核层面的性能瓶颈。这一发现对云计算环境中大规模部署和优化AI等计算密集型工作负载具有重要意义，有助于提升系统效率和资源利用率。",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/ssaAohmSCrr8J2BcFgh2?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "基于AI机器人攻陷微软等GitHub Actions工作流，凸显AI安全挑战",
+      "summary": "安全研究人员发现，基于AI的机器人成功攻陷了微软、DataDog和CNCF项目中的GitHub Actions工作流。这一事件揭示了自动化CI/CD流程中可能存在的安全漏洞，并对AI在自动化领域的安全性提出了新的挑战。",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/qj2aLodCUPuLu83qkeVx?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "岚图泰山Ultra交付，搭载全新一代896线激光雷达强化智能驾驶",
+      "summary": "岚图泰山Ultra车型已启动交付，该车首次搭载了全新一代896线激光雷达，大幅提升了感知能力。这一技术突破预计将为高级辅助驾驶和自动驾驶系统提供更精准的环境数据，助力智能汽车发展。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/391489.html",
+      "category": "news"
+    },
+    {
+      "title": "Karpathy访谈：开源模型与闭源模型差距6月属健康状态，“龙虾”成功在于“人格”",
+      "summary": "Andrey Karpathy在最新访谈中指出，开源模型与闭源模型之间保持约六个月的差距，这对AI生态系统而言是一种健康的平衡。他同时强调，如“龙虾”这类模型的成功在于其所展现的“人格化”特征，这为未来AI的交互设计提供了新思路。",
+      "source": "AI 前线 (InfoQ)",
+      "link": "https://www.infoq.cn/article/fI0rYFpZJEU10AMgeikf?utm_source=rss&utm_medium=article",
+      "category": "news"
+    },
+    {
+      "title": "Momenta自动驾驶选择“世界模型”，大众首发，CEO称传感器重要性后置",
+      "summary": "Momenta在自动驾驶技术路径上选择“世界模型”而非VLA，并已在大众汽车上首发应用。公司CEO曹旭东强调，在自动驾驶发展后期，传感器的重要性将逐渐次于决策和预测能力，体现了其对高阶智能系统的重视。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/391474.html",
+      "category": "news"
+    },
+    {
+      "title": "字节跳动“龙虾架构”开源受关注，GitHub获超3.5万星并适配飞书",
+      "summary": "字节跳动开发的“龙虾架构”在GitHub上广受关注，目前已获得超过3.5万颗星，成为开源社区的热门项目。该架构内置了完整的技能工具包，并原生适配飞书平台，为开发者提供了强大的AI应用构建能力。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/391361.html",
+      "category": "news"
+    },
+    {
+      "title": "全球机器人顶会ICRA开启报名，聚焦具身智能创新突破",
+      "summary": "全球机器人技术顶级会议ICRA已启动报名，旨在寻找具身智能领域的创新突破。智元公司将全程提供支持与陪跑，助力参赛者在此次盛会中展现其在具身智能和机器人领域的创新成果，共同推动行业进步。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/391359.html",
+      "category": "news"
+    },
+    {
+      "title": "知名院士教授团队加盟趋境科技，共建高效能AI Token生产新生态",
+      "summary": "知名院士与多位教授团队加盟趋境科技，共同领衔高效能AI Token生产新生态的建设。此举将极大增强趋境科技在人工智能算力与代币经济模型领域的研发实力，有望推动AI基础设施的革新。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/391339.html",
+      "category": "news"
+    },
+    {
+      "title": "具身智能公司专注于机器人触觉技术，强调“手感”感知重要性",
+      "summary": "在众多公司专注于视觉AI技术之际，一家具身智能公司另辟蹊径，致力于发展机器人的“手感”技术。该公司强调触觉感知对于机器人完成复杂操作的关键作用，并已吸引多家全球顶尖科技公司采用其产品。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/391314.html",
+      "category": "news"
+    },
+    {
+      "title": "千问上线AI打车功能，用户可一句话完成行程规划",
+      "summary": "阿里巴巴旗下大模型产品“千问”已上线AI打车功能，用户仅需一句话即可完成选车、选地点和选时间等操作。该功能显著简化了打车流程，进一步拓展了AI在生活服务领域的应用，提升了用户体验。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/391308.html",
+      "category": "news"
+    },
+    {
+      "title": "OpenClaw创始人确认360发现平台漏洞，聚焦智能体实战防御",
+      "summary": "OpenClaw创始人已回信确认360安全团队独家发现的平台漏洞，并表示将积极推动智能体应用的实战化防御。此事件凸显了AI安全领域合作的重要性，以及在快速发展的人工智能生态中，漏洞披露和修复机制的建立至关重要。",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/03/391303.html",
+      "category": "news"
+    }
+  ],
+  "markdown": "# AI 日报 — 2026-03-24\n> 今日人工智能领域聚焦大模型应用、安全挑战与具身智能新进展。\n\n## 新闻\n\n### 极客部落发布“OPC 创业者招募计划”，赋能AI时代“一人独角兽”\n极客部落发布了“OPC 创业者招募计划”，旨在赋能AI时代的个体创业者成为“一人独角兽”。该计划为有志于在人工智能领域进行创新和发展的个人提供了创业支持和资源，以推动AI生态的繁荣。\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/71MQtQpYKbCLSbXo6v8u?utm_source=rss&utm_medium=article)\n\n### Bosch首席AI科学家阎栋博士将出席QCon北京站，探讨AI大模型与软件世界未来\nBosch集团首席AI科学家阎栋博士将出席QCon北京站，届时他将深入探讨AI大模型对软件世界的潜在影响。此次讨论预计将围绕人工智能技术如何重塑软件开发范式，以及软件行业的未来走向展开。\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/g29j1RVFBqGg1t4BQExV?utm_source=rss&utm_medium=article)\n\n### AICon 2026 上海站启动，聚焦OpenClaw技术与AI应用真实现状\nAICon 2026上海站已正式启动，本届大会将聚焦OpenClaw等前沿AI技术和实际应用。会议旨在提供一个深入交流的平台，探讨人工智能领域的最新进展与挑战，推动行业创新与发展。\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/C2WQHsZF6ruKr61USuSa?utm_source=rss&utm_medium=article)\n\n### DoorDash构建大模型对话模拟与评估闭环，提升客服机器人测试效率\nDoorDash成功构建了一套大模型对话模拟与评估闭环系统，显著提升了客服机器人的规模化测试能力。此举使得DoorDash能够高效验证和优化其AI驱动的客户服务解决方案，确保服务质量并加速产品迭代。\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/ZaJmZWklKB37egQrQzBk?utm_source=rss&utm_medium=article)\n\n### Netflix发现现代CPU扩展容器化应用存在内核级瓶颈\nNetflix工程师在现代CPU上扩展容器化应用时，发现了内核层面的性能瓶颈。这一发现对云计算环境中大规模部署和优化AI等计算密集型工作负载具有重要意义，有助于提升系统效率和资源利用率。\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/ssaAohmSCrr8J2BcFgh2?utm_source=rss&utm_medium=article)\n\n### 基于AI机器人攻陷微软等GitHub Actions工作流，凸显AI安全挑战\n安全研究人员发现，基于AI的机器人成功攻陷了微软、DataDog和CNCF项目中的GitHub Actions工作流。这一事件揭示了自动化CI/CD流程中可能存在的安全漏洞，并对AI在自动化领域的安全性提出了新的挑战。\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/qj2aLodCUPuLu83qkeVx?utm_source=rss&utm_medium=article)\n\n### 岚图泰山Ultra交付，搭载全新一代896线激光雷达强化智能驾驶\n岚图泰山Ultra车型已启动交付，该车首次搭载了全新一代896线激光雷达，大幅提升了感知能力。这一技术突破预计将为高级辅助驾驶和自动驾驶系统提供更精准的环境数据，助力智能汽车发展。\n🔗 [量子位](https://www.qbitai.com/2026/03/391489.html)\n\n### Karpathy访谈：开源模型与闭源模型差距6月属健康状态，“龙虾”成功在于“人格”\nAndrey Karpathy在最新访谈中指出，开源模型与闭源模型之间保持约六个月的差距，这对AI生态系统而言是一种健康的平衡。他同时强调，如“龙虾”这类模型的成功在于其所展现的“人格化”特征，这为未来AI的交互设计提供了新思路。\n🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/fI0rYFpZJEU10AMgeikf?utm_source=rss&utm_medium=article)\n\n### Momenta自动驾驶选择“世界模型”，大众首发，CEO称传感器重要性后置\nMomenta在自动驾驶技术路径上选择“世界模型”而非VLA，并已在大众汽车上首发应用。公司CEO曹旭东强调，在自动驾驶发展后期，传感器的重要性将逐渐次于决策和预测能力，体现了其对高阶智能系统的重视。\n🔗 [量子位](https://www.qbitai.com/2026/03/391474.html)\n\n### 字节跳动“龙虾架构”开源受关注，GitHub获超3.5万星并适配飞书\n字节跳动开发的“龙虾架构”在GitHub上广受关注，目前已获得超过3.5万颗星，成为开源社区的热门项目。该架构内置了完整的技能工具包，并原生适配飞书平台，为开发者提供了强大的AI应用构建能力。\n🔗 [量子位](https://www.qbitai.com/2026/03/391361.html)\n\n### 全球机器人顶会ICRA开启报名，聚焦具身智能创新突破\n全球机器人技术顶级会议ICRA已启动报名，旨在寻找具身智能领域的创新突破。智元公司将全程提供支持与陪跑，助力参赛者在此次盛会中展现其在具身智能和机器人领域的创新成果，共同推动行业进步。\n🔗 [量子位](https://www.qbitai.com/2026/03/391359.html)\n\n### 知名院士教授团队加盟趋境科技，共建高效能AI Token生产新生态\n知名院士与多位教授团队加盟趋境科技，共同领衔高效能AI Token生产新生态的建设。此举将极大增强趋境科技在人工智能算力与代币经济模型领域的研发实力，有望推动AI基础设施的革新。\n🔗 [量子位](https://www.qbitai.com/2026/03/391339.html)\n\n### 具身智能公司专注于机器人触觉技术，强调“手感”感知重要性\n在众多公司专注于视觉AI技术之际，一家具身智能公司另辟蹊径，致力于发展机器人的“手感”技术。该公司强调触觉感知对于机器人完成复杂操作的关键作用，并已吸引多家全球顶尖科技公司采用其产品。\n🔗 [量子位](https://www.qbitai.com/2026/03/391314.html)\n\n### 千问上线AI打车功能，用户可一句话完成行程规划\n阿里巴巴旗下大模型产品“千问”已上线AI打车功能，用户仅需一句话即可完成选车、选地点和选时间等操作。该功能显著简化了打车流程，进一步拓展了AI在生活服务领域的应用，提升了用户体验。\n🔗 [量子位](https://www.qbitai.com/2026/03/391308.html)\n\n### OpenClaw创始人确认360发现平台漏洞，聚焦智能体实战防御\nOpenClaw创始人已回信确认360安全团队独家发现的平台漏洞，并表示将积极推动智能体应用的实战化防御。此事件凸显了AI安全领域合作的重要性，以及在快速发展的人工智能生态中，漏洞披露和修复机制的建立至关重要。\n🔗 [量子位](https://www.qbitai.com/2026/03/391303.html)\n"
+}
