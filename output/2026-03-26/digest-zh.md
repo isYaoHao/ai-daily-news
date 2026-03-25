@@ -1,0 +1,70 @@
+# AI 日报 — 2026-03-26
+> 聚焦今日人工智能前沿：Sora 关停，产业应用加速，人才竞争升级
+
+## 新闻
+
+### OpenAI 视频生成模型 Sora 意外关停，引发行业对“视频版 ChatGPT”发展路径的深思
+OpenAI 突然宣布关停其备受瞩目的视频生成模型 Sora，这一举动令业界感到意外，并引发了关于其未能实现“视频版 ChatGPT”愿景的广泛讨论。分析指出，Sora在技术成熟度、内容审核和商业化落地方面可能面临巨大挑战，促使AI视频领域开始审视更可持续的发展模式。
+🔗 [量子位](https://www.qbitai.com/2026/03/391799.html)
+
+### 中国 AI 音乐技术实现突破，人声与器乐合成均达到全球领先水平
+中国在人工智能音乐领域取得了显著的全球领先地位，其 AI 音乐技术在人声和器乐合成方面均表现出色。这一突破性进展不仅提升了 AI 音乐的创作质量与表现力，也预示着中国在全球 AI 音乐产业中将扮演越来越重要的角色。
+🔗 [量子位](https://www.qbitai.com/2026/03/391839.html)
+
+## 行业
+
+### 阿里云 JVS Claw 全面升级，新增语音输入与智能 Skill 开关功能
+阿里云近日宣布旗下 AI 智能体产品 JVS Claw 全面开放并迎来功能升级，新增了语音输入和个性化 Skill 开关等实用特性。该产品凭借其创新的智能体服务，已成功登顶 App Store 智能体及 Claw 搜索榜首位，显示出其在市场中的强劲竞争力与用户认可度。
+🔗 [量子位](https://www.qbitai.com/2026/03/391830.html)
+
+### 飞猪“flyai”旅行 AI Skill 正式上线，布局多平台生态
+飞猪推出了其首个全品类旅行 AI Skill“flyai”，并已在ClawHub和GitHub平台上线，标志着旅行行业在智能化服务方面迈出重要一步。该 Skill 还将陆续接入华为、小米、OPPO、荣耀等主流手机厂商，旨在为用户提供更便捷、智能的旅行规划与服务体验。
+🔗 [量子位](https://www.qbitai.com/2026/03/391890.html)
+
+### DeepSeek 大规模招聘 Agent 方向人才，聚焦 AI 产品化转型
+AI 公司 DeepSeek 近期发布了17个 Agent 方向的紧急招聘岗位，显示其战略重心正从基础模型研究明显转向 Agent 产品的商业化落地。此次大规模人才招募，旨在加速构建和完善其 Agent 产品生态，以适应市场对智能自动化解决方案日益增长的需求。
+🔗 [量子位](https://www.qbitai.com/2026/03/392024.html)
+
+### 睿尔曼“茶艺机器人”亮相中关村论坛，展现服务机器人应用前景
+在2026年中关村论坛上，睿尔曼公司展示了一款能够进行茶艺表演的机器人，吸引了广泛关注。这款“茶艺机器人”不仅体现了机器人技术的精妙与灵活性，更传递出“让能干活的机器人走进现实”的理念，预示着服务机器人在日常生活和商业场景中的广阔应用前景。
+🔗 [量子位](https://www.qbitai.com/2026/03/392121.html)
+
+### WorkBuddy：微信生态 AI 专家团队，助力用户轻松管理多媒体创作
+微信生态内的 WorkBuddy 平台正通过其“AI 专家团队”模式，为用户提供高效的自媒体内容创作与管理服务。该系统允许用户像“赛博虾工头”一样，利用 AI 专家组团协作，极大简化了内容生产流程，提升了个人创作者和团队的运营效率。
+🔗 [量子位](https://www.qbitai.com/2026/03/391894.html)
+
+### Arm 发布首款自研芯片，Meta 率先采用引领行业变革
+芯片设计巨头 Arm 结束了长达35年仅销售设计的历史，正式发布了其首款自主研发的处理器芯片。社交媒体巨头 Meta 已迅速抢下首批订单，此举标志着 Arm 在半导体产业链中的角色转变，预示着高性能、低功耗定制化芯片将成为未来发展的重要趋势。
+🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/SKhCim03Cgu5QvflVoba?utm_source=rss&utm_medium=article)
+
+### Snowflake 推出 AI 驱动预测性维护解决方案，提升企业运营效率
+数据云公司 Snowflake 正在推广其基于 AI 驱动的预测性维护技术，旨在帮助企业通过数据分析提前预判设备故障。这项技术能够显著降低维护成本、减少停机时间，并优化资产管理策略，为各行业提供更智能、高效的运营保障。
+🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/3LDH6Qh3yeH29hORrwbl?utm_source=rss&utm_medium=article)
+
+### Sonatype 发布 Guide，强化 AI 辅助代码生成的安全性
+软件供应链管理公司 Sonatype 近期推出了“Guide”工具，专注于提升人工智能辅助代码生成的安全性。该工具旨在解决 AI 生成代码中可能存在的安全漏洞和合规性问题，为开发者提供指导和保障，确保在享受 AI 带来便利的同时，维护软件项目的整体安全。
+🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/OTLD9IW3zMZdXMHsWD99?utm_source=rss&utm_medium=article)
+
+### QCon 北京探讨大规模 Agent 可观测与质量保障体系构建
+在 QCon 北京大会上，专家们深入探讨了如何为大规模 AI Agent 构建高效的可观测性和质量保障体系。会议强调，随着 Agent 系统的复杂性不断增加，建立健全的监控、诊断与测试机制至关重要，以确保 Agent 在实际应用中的稳定性、可靠性和性能表现。
+🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/7aAHoPVD5XlR7oVxO4el?utm_source=rss&utm_medium=article)
+
+### 微信 ClawBot 官配 WorkBuddy，创新“扫码即用”聊天工作模式
+微信生态内推出了 ClawBot 官方配套应用 WorkBuddy，实现了“聊天干活”只需扫码即可启动的便捷模式。这一创新旨在将 AI 能力无缝融入日常微信交流中，用户无需复杂配置即可利用 AI 完成各项工作任务，大幅提升了沟通与协作的效率。
+🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/D1ZIFEbcxoHVOvp8oZ87?utm_source=rss&utm_medium=article)
+
+## 社区
+
+### “首席龙虾官”成新兴高薪职业，月薪6万反映产业智能化需求
+随着智能化技术在农业领域的深入应用，“首席龙虾官”成为一个新兴且高薪的职业，月薪高达6万元。这一现象反映出猎头公司正积极捕捉具备专业养殖知识并能结合 AI 等技术提升效率的复合型人才，预示着传统行业与高科技融合带来的职业新机遇。
+🔗 [量子位](https://www.qbitai.com/2026/03/392128.html)
+
+### Reddit CEO 称“AI 原生一代”价值巨大，行业人才竞争白热化
+Reddit CEO 指出，伴随 AI 浪潮成长起来的“AI 原生一代”年轻人才展现出巨大的潜力与价值，导致科技行业的人才竞争异常激烈。他提到 Reddit 在过去两年内大规模招聘应届生，并实行灵活的远程工作政策，以吸引并留住这些适应 AI 时代发展的新生力量。
+🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/article/bkgl1j8Uu1wrQaj9UukJ?utm_source=rss&utm_medium=article)
+
+## 研究
+
+### 《2026中国企业 AI 应用场景报告》发布，揭示 AI 落地新趋势
+《2026中国企业 AI 应用场景报告》已正式发布，详细描绘了人工智能技术在中国企业中的最新应用态势与未来发展方向。该报告深入分析了 AI 在不同行业和业务场景中的具体实践案例，为企业把握 AI 发展机遇、加速数字化转型提供了重要的参考依据。
+🔗 [AI 前线 (InfoQ)](https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&utm_medium=article)
