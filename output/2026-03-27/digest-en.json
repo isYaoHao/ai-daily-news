@@ -1,0 +1,114 @@
+{
+  "title": "AI Daily Digest",
+  "subtitle": "Key developments in AI from policy changes to new product integrations",
+  "date": "2026-03-27",
+  "lang": "en",
+  "items": [
+    {
+      "title": "Wikipedia Reinforces Stance Against AI-Generated Content in Articles",
+      "summary": "Wikipedia has announced a stronger crackdown on the use of artificial intelligence in writing and editing its articles. This move addresses the ongoing challenges the platform faces in maintaining content integrity amidst the rise of AI-generated text. The policy aims to ensure human oversight and factual accuracy for all entries.",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "category": "news"
+    },
+    {
+      "title": "Google Enhances Gemini with New Memory Import Capabilities",
+      "summary": "Google is introducing new tools for its Gemini AI, making it easier for users to import memory and conversational history from other AI platforms. This feature aims to attract more users by offering seamless integration and continuity across their AI interactions. The update underscores Google's strategy to position Gemini as a central AI assistant.",
+      "source": "The Verge - AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "category": "industry"
+    },
+    {
+      "title": "Apple Reportedly Opening Siri to Third-Party AI Chatbots",
+      "summary": "Apple is rumored to be allowing external AI chatbots to integrate with Siri, expanding its capabilities beyond the current OpenAI ChatGPT integration. This strategic shift could significantly broaden Siri's functionality and offer users more diverse AI assistant options directly through Apple devices. The move suggests a more open approach to AI within the Apple ecosystem.",
+      "source": "The Verge - AI",
+      "link": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "category": "news"
+    },
+    {
+      "title": "Google Expands Live AI Search Assistant to Dozens More Languages",
+      "summary": "Google's 'live' AI search assistant is now capable of handling conversations in dozens of additional languages, significantly expanding its global reach. This enhancement allows a wider range of users to interact with Google Search for information using natural voice commands. The expansion aims to make AI-powered search more accessible and inclusive worldwide.",
+      "source": "The Verge - AI",
+      "link": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+      "category": "industry"
+    },
+    {
+      "title": "OpenAI Discontinues ChatGPT's Experimental Erotic Mode Feature",
+      "summary": "OpenAI has officially abandoned the experimental 'erotic mode' feature within ChatGPT, citing it as another side project being deprioritized. This decision is part of a broader trend by the AI startup to streamline its offerings and focus on core functionalities. The move highlights OpenAI's ongoing efforts to manage the ethical and practical implications of its AI developments.",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "category": "news"
+    },
+    {
+      "title": "Senators Demand Transparency on Data Center Energy Consumption",
+      "summary": "U.S. Senators Josh Hawley and Elizabeth Warren are pushing the Energy Information Administration to gather more detailed data on the power consumption of data centers. This initiative reflects growing concerns over the environmental impact and energy demands of AI infrastructure. Increased transparency could lead to new regulations for the rapidly expanding data center industry.",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/26/data-centers-get-ready-—the-senate-wants-to-see-your-power-bills/",
+      "category": "news"
+    },
+    {
+      "title": "Tech Reporters Leverage AI for Writing and Editing Workflows",
+      "summary": "Independent tech journalists are increasingly integrating AI agents into various stages of their reporting process, from research to drafting and editing. This adoption allows reporters to enhance efficiency and explore new avenues for content creation. The trend raises questions about the evolving role of human creativity and AI assistance in journalism.",
+      "source": "Wired - AI",
+      "link": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
+      "category": "community"
+    },
+    {
+      "title": "Meta Prepares to Launch Next Generation Ray-Ban AI Glasses",
+      "summary": "Meta is reportedly gearing up to release two new models of Ray-Ban AI glasses, building on their previous collaboration. These smart glasses are expected to feature enhanced AI capabilities, further integrating digital assistance into daily life. The launch signifies Meta's continued investment in wearable technology as a platform for AI innovation.",
+      "source": "The Verge - AI",
+      "link": "https://www.verge.com/column/901314/meta-new-ray-ban-ai-glasses",
+      "category": "industry"
+    },
+    {
+      "title": "Google Translate Integrates Live Translator with Headphones on iOS",
+      "summary": "Google Translate is officially rolling out its Live Translate feature for headphones on iOS devices, expanding real-time language translation capabilities. This update enables seamless, on-the-go communication by translating spoken words directly through connected headphones. The enhancement makes international interactions more accessible and natural for iOS users.",
+      "source": "Google AI Blog",
+      "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+      "category": "industry"
+    },
+    {
+      "title": "ByteDance's Dreamina Seedance 2.0 AI Video Model Arrives in CapCut",
+      "summary": "ByteDance has integrated its new AI video generation model, Dreamina Seedance 2.0, into the CapCut editing application. This advanced model comes with built-in protections designed to prevent the unauthorized creation of videos from real faces or copyrighted material. The addition enhances CapCut's capabilities, offering users sophisticated AI tools for video production.",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+      "category": "industry"
+    },
+    {
+      "title": "Optimizing AI App Responsiveness with Response Streaming Techniques",
+      "summary": "A new article explores methods for making AI applications faster and more interactive through the implementation of response streaming. This technique focuses on delivering incremental outputs to users, improving perceived performance and engagement. The discussion highlights the importance of efficient data handling in enhancing user experience for AI services.",
+      "source": "Towards Data Science",
+      "link": "https://towardsdatascience.com/how-to-make-your-ai-app-faster-and-more-interactive-with-response-streaming/",
+      "category": "community"
+    },
+    {
+      "title": "Gemini 3.1 Flash Live Debuts, Enhancing Audio AI Reliability",
+      "summary": "Google's Gemini 3.1 Flash Live is now available across various Google products, significantly improving the naturalness and reliability of audio AI. This update focuses on advancing conversational AI by making audio interactions more fluid and accurate. The widespread deployment signals Google's commitment to refining its AI models for everyday use.",
+      "source": "Google AI Blog",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+      "category": "industry"
+    },
+    {
+      "title": "NVIDIA GTC Highlights Virtual Worlds Driving Physical AI Era",
+      "summary": "NVIDIA's GTC conference showcased the pivotal role of virtual worlds in powering the emerging era of physical AI. Presentations emphasized how digital simulations and environments are critical for training and deploying AI systems in the real world. This focus underscores the interconnectedness of virtual and physical domains in advanced AI development.",
+      "source": "NVIDIA AI Blog",
+      "link": "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/",
+      "category": "industry"
+    },
+    {
+      "title": "Conntour Secures $7M to Develop AI Search Engine for Security Footage",
+      "summary": "Conntour has successfully raised $7 million in funding from General Catalyst and Y Combinator to advance its AI-powered search engine for security video systems. The company utilizes advanced AI models, enabling security teams to query camera feeds using natural language. This technology aims to drastically improve the efficiency of identifying specific events or individuals within surveillance footage.",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+      "category": "industry"
+    },
+    {
+      "title": "EU Lawmakers Postpone Key AI Regulations and Ban Nudify Apps",
+      "summary": "European lawmakers have voted to delay significant sections of the EU AI Act, the bloc's landmark legislation for regulating artificial intelligence. Concurrently, they have approved a ban on 'nudify' applications, reflecting a proactive stance against harmful AI uses. These decisions indicate a complex and evolving regulatory landscape for AI within the European Union.",
+      "source": "The Verge - AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+      "category": "news"
+    }
+  ],
+  "markdown": "# AI Daily Digest — 2026-03-27\n> Key developments in AI from policy changes to new product integrations\n\n## News\n\n### Wikipedia Reinforces Stance Against AI-Generated Content in Articles\nWikipedia has announced a stronger crackdown on the use of artificial intelligence in writing and editing its articles. This move addresses the ongoing challenges the platform faces in maintaining content integrity amidst the rise of AI-generated text. The policy aims to ensure human oversight and factual accuracy for all entries.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/)\n\n### Apple Reportedly Opening Siri to Third-Party AI Chatbots\nApple is rumored to be allowing external AI chatbots to integrate with Siri, expanding its capabilities beyond the current OpenAI ChatGPT integration. This strategic shift could significantly broaden Siri's functionality and offer users more diverse AI assistant options directly through Apple devices. The move suggests a more open approach to AI within the Apple ecosystem.\n🔗 [The Verge - AI](https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27)\n\n### OpenAI Discontinues ChatGPT's Experimental Erotic Mode Feature\nOpenAI has officially abandoned the experimental 'erotic mode' feature within ChatGPT, citing it as another side project being deprioritized. This decision is part of a broader trend by the AI startup to streamline its offerings and focus on core functionalities. The move highlights OpenAI's ongoing efforts to manage the ethical and practical implications of its AI developments.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/)\n\n### Senators Demand Transparency on Data Center Energy Consumption\nU.S. Senators Josh Hawley and Elizabeth Warren are pushing the Energy Information Administration to gather more detailed data on the power consumption of data centers. This initiative reflects growing concerns over the environmental impact and energy demands of AI infrastructure. Increased transparency could lead to new regulations for the rapidly expanding data center industry.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/26/data-centers-get-ready-—the-senate-wants-to-see-your-power-bills/)\n\n### EU Lawmakers Postpone Key AI Regulations and Ban Nudify Apps\nEuropean lawmakers have voted to delay significant sections of the EU AI Act, the bloc's landmark legislation for regulating artificial intelligence. Concurrently, they have approved a ban on 'nudify' applications, reflecting a proactive stance against harmful AI uses. These decisions indicate a complex and evolving regulatory landscape for AI within the European Union.\n🔗 [The Verge - AI](https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps)\n\n## Industry\n\n### Google Enhances Gemini with New Memory Import Capabilities\nGoogle is introducing new tools for its Gemini AI, making it easier for users to import memory and conversational history from other AI platforms. This feature aims to attract more users by offering seamless integration and continuity across their AI interactions. The update underscores Google's strategy to position Gemini as a central AI assistant.\n🔗 [The Verge - AI](https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history)\n\n### Google Expands Live AI Search Assistant to Dozens More Languages\nGoogle's 'live' AI search assistant is now capable of handling conversations in dozens of additional languages, significantly expanding its global reach. This enhancement allows a wider range of users to interact with Google Search for information using natural voice commands. The expansion aims to make AI-powered search more accessible and inclusive worldwide.\n🔗 [The Verge - AI](https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion)\n\n### Meta Prepares to Launch Next Generation Ray-Ban AI Glasses\nMeta is reportedly gearing up to release two new models of Ray-Ban AI glasses, building on their previous collaboration. These smart glasses are expected to feature enhanced AI capabilities, further integrating digital assistance into daily life. The launch signifies Meta's continued investment in wearable technology as a platform for AI innovation.\n🔗 [The Verge - AI](https://www.verge.com/column/901314/meta-new-ray-ban-ai-glasses)\n\n### Google Translate Integrates Live Translator with Headphones on iOS\nGoogle Translate is officially rolling out its Live Translate feature for headphones on iOS devices, expanding real-time language translation capabilities. This update enables seamless, on-the-go communication by translating spoken words directly through connected headphones. The enhancement makes international interactions more accessible and natural for iOS users.\n🔗 [Google AI Blog](https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/)\n\n### ByteDance's Dreamina Seedance 2.0 AI Video Model Arrives in CapCut\nByteDance has integrated its new AI video generation model, Dreamina Seedance 2.0, into the CapCut editing application. This advanced model comes with built-in protections designed to prevent the unauthorized creation of videos from real faces or copyrighted material. The addition enhances CapCut's capabilities, offering users sophisticated AI tools for video production.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/)\n\n### Gemini 3.1 Flash Live Debuts, Enhancing Audio AI Reliability\nGoogle's Gemini 3.1 Flash Live is now available across various Google products, significantly improving the naturalness and reliability of audio AI. This update focuses on advancing conversational AI by making audio interactions more fluid and accurate. The widespread deployment signals Google's commitment to refining its AI models for everyday use.\n🔗 [Google AI Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/)\n\n### NVIDIA GTC Highlights Virtual Worlds Driving Physical AI Era\nNVIDIA's GTC conference showcased the pivotal role of virtual worlds in powering the emerging era of physical AI. Presentations emphasized how digital simulations and environments are critical for training and deploying AI systems in the real world. This focus underscores the interconnectedness of virtual and physical domains in advanced AI development.\n🔗 [NVIDIA AI Blog](https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/)\n\n### Conntour Secures $7M to Develop AI Search Engine for Security Footage\nConntour has successfully raised $7 million in funding from General Catalyst and Y Combinator to advance its AI-powered search engine for security video systems. The company utilizes advanced AI models, enabling security teams to query camera feeds using natural language. This technology aims to drastically improve the efficiency of identifying specific events or individuals within surveillance footage.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/)\n\n## Community\n\n### Tech Reporters Leverage AI for Writing and Editing Workflows\nIndependent tech journalists are increasingly integrating AI agents into various stages of their reporting process, from research to drafting and editing. This adoption allows reporters to enhance efficiency and explore new avenues for content creation. The trend raises questions about the evolving role of human creativity and AI assistance in journalism.\n🔗 [Wired - AI](https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/)\n\n### Optimizing AI App Responsiveness with Response Streaming Techniques\nA new article explores methods for making AI applications faster and more interactive through the implementation of response streaming. This technique focuses on delivering incremental outputs to users, improving perceived performance and engagement. The discussion highlights the importance of efficient data handling in enhancing user experience for AI services.\n🔗 [Towards Data Science](https://towardsdatascience.com/how-to-make-your-ai-app-faster-and-more-interactive-with-response-streaming/)\n"
+}
