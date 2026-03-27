@@ -1,0 +1,114 @@
+{
+  "title": "AI Daily Digest",
+  "subtitle": "Your daily roundup of AI news",
+  "date": "2026-03-28",
+  "lang": "en",
+  "items": [
+    {
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "source": "OpenAI Blog",
+      "link": "https://openai.com/index/stadler",
+      "category": "industry"
+    },
+    {
+      "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+      "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then",
+      "source": "Wired - AI",
+      "link": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+      "category": "news"
+    },
+    {
+      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+      "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+      "category": "news"
+    },
+    {
+      "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+      "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' me",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+      "category": "news"
+    },
+    {
+      "title": "The latest in data centers, AI, and energy",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hun",
+      "source": "The Verge - AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "category": "news"
+    },
+    {
+      "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+      "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that ",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+      "category": "news"
+    },
+    {
+      "title": "Building a Production-Grade Multi-Node Training Pipeline with PyTorch DDP",
+      "summary": "A practical, code-driven guide to scaling deep learning across machines — from NCCL process groups to gradient synchronization\nThe post Building a Pro",
+      "source": "Towards Data Science",
+      "link": "https://towardsdatascience.com/building-a-production-grade-multi-node-training-pipeline-with-pytorch-ddp/",
+      "category": "community"
+    },
+    {
+      "title": "Apple Still Plans to Sell iPhones When It Turns 100",
+      "summary": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
+      "source": "Wired - AI",
+      "link": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
+      "category": "news"
+    },
+    {
+      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+      "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that ",
+      "source": "TechCrunch - AI",
+      "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "category": "news"
+    },
+    {
+      "title": "The Download: the internet’s best weather app, and why people freeze their brains",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a couple",
+      "source": "MIT Technology Review - AI",
+      "link": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
+      "category": "research"
+    },
+    {
+      "title": "A Beginner’s Guide to Quantum Computing with Python",
+      "summary": "Simulate a quantum computer with Qiskit\nThe post A Beginner’s Guide to Quantum Computing with Python appeared first on Towards Data Science.",
+      "source": "Towards Data Science",
+      "link": "https://towardsdatascience.com/a-beginners-guide-to-quantum-computing-with-python/",
+      "category": "community"
+    },
+    {
+      "title": "The Latest AI Documentary Asks: Just How Scared Should We Be?",
+      "summary": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off th",
+      "source": "Wired - AI",
+      "link": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
+      "category": "news"
+    },
+    {
+      "title": "How ElevenLabs Voice AI Is Replacing Screens in Warehouse and Manufacturing Operations",
+      "summary": "A warehouse picking operation is the process of collecting items from storage locations to fulfil customer orders. It is one of the most labour-intens",
+      "source": "Towards Data Science",
+      "link": "https://towardsdatascience.com/how-elevenlabs-voice-ai-is-replacing-screens-in-warehouse-and-manufacturing-operations/",
+      "category": "community"
+    },
+    {
+      "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+      "summary": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to m",
+      "source": "Wired - AI",
+      "link": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+      "category": "news"
+    },
+    {
+      "title": "How NYU’s Quantum Institute Bridges Science and Application",
+      "summary": "This sponsored article is brought to you by NYU Tandon School of Engineering.\nWithin a 6 mile radius of New York University’s (NYU) campus, there are ",
+      "source": "IEEE Spectrum - AI",
+      "link": "https://spectrum.ieee.org/nyu-quantum-institute",
+      "category": "research"
+    }
+  ],
+  "markdown": "# AI Daily Digest — 2026-03-28\n> Your daily roundup of AI news\n\n## Industry\n\n### STADLER reshapes knowledge work at a 230-year-old company\nLearn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.\n🔗 [OpenAI Blog](https://openai.com/index/stadler)\n\n## News\n\n### AI Research Is Getting Harder to Separate From Geopolitics\nA policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.\n🔗 [Wired - AI](https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/)\n\n### Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO\nWall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/)\n\n### Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO\nSK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.\n🔗 [TechCrunch - AI](https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/)\n\n### The latest in data centers, AI, and energy\nMassive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w\n🔗 [The Verge - AI](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)\n\n### VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?\nWhen an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby \n🔗 [TechCrunch - AI](https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/)\n\n### Apple Still Plans to Sell iPhones When It Turns 100\nAs the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.\n🔗 [Wired - AI](https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/)\n\n### OpenAI shuts down Sora while Meta gets shut out in court\nWhen an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby \n🔗 [TechCrunch - AI](https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/)\n\n### The Latest AI Documentary Asks: Just How Scared Should We Be?\nThe AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.\n🔗 [Wired - AI](https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/)\n\n### I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often\nAds are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.\n🔗 [Wired - AI](https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/)\n\n## Community\n\n### Building a Production-Grade Multi-Node Training Pipeline with PyTorch DDP\nA practical, code-driven guide to scaling deep learning across machines — from NCCL process groups to gradient synchronization The post Building a Production-Grade Multi-Node Training Pipeline with Py\n🔗 [Towards Data Science](https://towardsdatascience.com/building-a-production-grade-multi-node-training-pipeline-with-pytorch-ddp/)\n\n### A Beginner’s Guide to Quantum Computing with Python\nSimulate a quantum computer with Qiskit The post A Beginner’s Guide to Quantum Computing with Python appeared first on Towards Data Science.\n🔗 [Towards Data Science](https://towardsdatascience.com/a-beginners-guide-to-quantum-computing-with-python/)\n\n### How ElevenLabs Voice AI Is Replacing Screens in Warehouse and Manufacturing Operations\nA warehouse picking operation is the process of collecting items from storage locations to fulfil customer orders. It is one of the most labour-intensive activities in logistics, accounting for up to \n🔗 [Towards Data Science](https://towardsdatascience.com/how-elevenlabs-voice-ai-is-replacing-screens-in-warehouse-and-manufacturing-operations/)\n\n## Research\n\n### The Download: the internet’s best weather app, and why people freeze their brains\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a couple of ski bums built the internet’s best weather app\n🔗 [MIT Technology Review - AI](https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/)\n\n### How NYU’s Quantum Institute Bridges Science and Application\nThis sponsored article is brought to you by NYU Tandon School of Engineering. Within a 6 mile radius of New York University’s (NYU) campus, there are more than 500 tech industry giants, banks, and hos\n🔗 [IEEE Spectrum - AI](https://spectrum.ieee.org/nyu-quantum-institute)\n"
+}
